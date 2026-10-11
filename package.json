@@ -1,0 +1,10 @@
+{
+  "name": "unified-agent-hub",
+  "version": "1.0.0",
+  "description": "统一 Agent 开放 API 网关与 MCP 协议中枢（聚合 17 个本地软件工程能力）",
+  "type": "module",
+  "scripts": {
+    "start": "node gateway.mjs",
+    "mcp": "node mcp-server.mjs"
+  }
+}

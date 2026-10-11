@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unified-agent-hub": {
+      "command": "node",
+      "args": ["C:\\Users\\Administrator\\Desktop\\项目\\unified-agent-hub\\mcp-server.mjs"]
+    }
+  }
+}
